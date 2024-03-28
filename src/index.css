@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.nav {
+    padding: 10px;
+    color: white;
+}
+.About {
+    text-decoration: none;
+    color: rgb(236, 227, 227);
+    margin-left: 10px;
+}
+input:focus{
+    outline-style: none;
+}
