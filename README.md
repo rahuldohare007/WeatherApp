@@ -1,1 +1,1 @@
-#Stomify (WeatherApp)
+# Stomify (WeatherApp)
